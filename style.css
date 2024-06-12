@@ -20,6 +20,7 @@
                 margin: auto;
                 align-content: center;
                 height: max-content;
+                text-align: center;
             }
             
             .card img {
